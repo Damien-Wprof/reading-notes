@@ -6,7 +6,7 @@ changing things like "I can't do x thing" to "I can't do x thing *yet*".
 Three reminders I can tell myself are:
 - Rephrase sentencing
 - Learn through repetition
-- Build habits around struggle
+- Build habits around struggle and overcome
 
 
 ## About Me
