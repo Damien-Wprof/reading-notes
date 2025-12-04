@@ -12,4 +12,5 @@ Three reminders I can tell myself are:
 ## About Me
 
 My name is **Damien**, I like computers, video games and food
+
 You can find my [Github page here](https://github.com/Damien-Wprof)
