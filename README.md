@@ -17,4 +17,4 @@ You can find my [Github page here](https://github.com/Damien-Wprof)
 
 ~~strikethrough text to meet my quota~~
 
-> dragonfly
+& dragonfly
