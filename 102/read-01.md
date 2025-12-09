@@ -1,7 +1,7 @@
 #Read-01
 
 
-1.What is markdown?
+1. What is markdown?
 
     Markdown is a lightweight way of writing text with simple symbols that get turned into nicely formatted stuff when displayed.
 
@@ -12,6 +12,7 @@
 3.What symbol creates headers?
 "#"
         2. How many do you need to make the largest heading? 
+        
         One
            3. How many do you need to make the smallest heading?
            Six
