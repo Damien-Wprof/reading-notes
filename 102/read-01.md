@@ -11,10 +11,10 @@
 
 3. What symbol creates headers?
 "#"
-        2. How many do you need to make the largest heading? 
+        2.How many do you need to make the largest heading? 
         
         One
-           3. How many do you need to make the smallest heading?
+           3.How many do you need to make the smallest heading?
            Six
 
 4. When making text bold or italicised for emphasis, it is best practice to use which symbol?
