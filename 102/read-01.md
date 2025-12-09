@@ -10,10 +10,11 @@
     We use markdown because it's simple and easy.
 
 3.What symbol creates headers?
-
-    1. "#"
-        2. One
-            3. Six
+"#"
+        2. How many do you need to make the largest heading? 
+        One
+           3. How many do you need to make the smallest heading?
+           Six
 
 4.When making text bold or italicised for emphasis, it is best practice to use which symbol?
 
