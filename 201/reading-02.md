@@ -2,7 +2,7 @@
 
 ## Why is it important to use semantic elements in our HTML?
 
-Semantic elements are HTML tags whose name clearly describes it's meaning, function and role.
+Semantic elements are HTML tags whose name clearly describes its meaning, function and role. This mostly helps browsers, devs and assistive technologies.
 
 ## How many levels of headings are there in HTML?
 
@@ -10,11 +10,11 @@ Semantic elements are HTML tags whose name clearly describes it's meaning, funct
 
 ## What are some uses for the sup and sub elements?
 
-the sup element is used when you want to raise a piece of text and the sub element is used when you want to lower a piece of text.
+The sup element is used when you want to raise a piece of text and the sub element is used when you want to lower a piece of text.
 
 ## When using the abbr element, what attribute must be added to provide the full expansion of the term?
 
-"Title"
+"title"
 
 ---
 # Learn CSS
@@ -25,7 +25,7 @@ Changing the color of backgrounds or text, fonts and add boxes.
 
 ## Why should we avoid using inline styles?
 
-External is better.
+External is better, maintainability, seperation of concerns, reuse.
 
 ## Review the block of code below and answer the following questions:
 
@@ -35,46 +35,48 @@ External is better.
    }
 
 
-## What is representing the selector?
+### What is representing the selector?
 
 The "h2" element.
 
-### Which components are the CSS declarations?
+#### Which components are the CSS declarations?
 
-"color" and "black"
+"color: black;"
+"padding: 5px;"
 
-### Which components are considered properties?
+##### Which components are considered properties?
 
-"black" and "5px"
+"color"
+"padding"
 
 ---
 
 # Learn JS
 
-# What data type is a sequence of text enclosed in single quote marks?
+## What data type is a sequence of text enclosed in single quote marks?
 
 A string.
 
-# List 4 types of JavaScript operators.
+## List 4 types of JavaScript operators.
 
-" +, =, -, and ||"
+Assignment, Comparison, Arithmetic, Logical
 
-# Describe a real world Problem you could solve with a Function.
+## Describe a real world Problem you could solve with a Function.
 
-cleaning, eating and urinating
+Cleaning, eating.
 
-# An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+## An if statement checks a __ and if it evaluates to ___, then the code block will execute.
 
 An if statement checks a condition and if it evaluates to true, then the code block will execute.
 
-# What is the use of an else if?
+## What is the use of an else if?
 
 An else if statement helps give the user more options, only stopping when a condition evaluates to true.
 
- # List 3 different types of comparison operators.
+## List 3 different types of comparison operators.
 
-" +, =, ||"
+" ==, ===, !="
 
-# What is the difference between the logical operator && and ||?
+## What is the difference between the logical operator && and ||?
 
 && means both conditions must be true, || means one or the other has to be true.
