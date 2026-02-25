@@ -1,90 +1,65 @@
-# Learn HTML
+# 📘 Learn HTML, CSS, and JavaScript
 
-## When should you use an unordered list in your HTML document?
+---
 
-When you need to make a list and you don't care about the order it's in.
+## 🧱 Learn HTML
 
-## How do you change the bullet style of unordered list items?
+### ❓ When should you use an unordered list in your HTML document?
+Use an unordered list when you need to present a list of items and the order does **not** matter.
 
-List-style-type
+---
 
-## When should you use an ordered list vs an unorder list in your HTML document?
+### ❓ How do you change the bullet style of unordered list items?
+By using the `list-style-type` CSS property.
 
-When you care about the order of your list
+---
 
-## Describe two ways you can change the numbers on list items provided by an ordered list?
+### ❓ When should you use an ordered list vs an unordered list?
+Use an **ordered list** when the sequence of items matters.  
+Use an **unordered list** when it does not.
 
-By setting the numbering type using attributes such as: a, A, i, I or 1
+---
 
-# Learn CSS
+### ❓ Describe two ways you can change the numbers on list items in an ordered list
+You can change numbering by setting the `type` attribute, such as:
+- `1` (default)
+- `a` / `A`
+- `i` / `I`
 
-## Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
+---
 
-Margin, legendary knight of the south border and padding, legendary knight of the north border. Margin protects the outside of the border while padding protects the inside.
+## 🎨 Learn CSS
 
-## List and describe the four parts of an HTML elements box as referred to by the box model.
+### ❓ Describe margin and padding as characters in a story  
+**_“The Box Model”_**
 
-margin, border, padding and content
+- **Margin** is the legendary knight guarding the **outside** of the border.
+- **Padding** is the legendary knight protecting the **inside** of the border.
 
-# Learn JS
+Margin controls space outside the element, while padding controls space between the content and the border.
 
-## What data types can you store inside of an Array?
+---
 
-Any type 
+### ❓ List and describe the four parts of the box model
+1. **Content** – The actual text or image
+2. **Padding** – Space between content and border
+3. **Border** – The outline around padding and content
+4. **Margin** – Space outside the border
 
-## Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+---
 
- const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+## 🧠 Learn JavaScript
 
-Yes, pull from the array using it's index, like:
-people[0][0] = 'pete'
+### ❓ What data types can you store inside of an array?
+An array can store **any data type**, including numbers, strings, booleans, objects, and even other arrays.
 
-## List five shorthand operators for assignment in javascript and describe what they do.
+---
 
-+= add and assign
--= subtract and assign
-*= multiply and assign
-/= divide and assign
-%= modulus and assign
+### ❓ Is the `people` array valid? How do you access its values?
 
-## Read the code below and evaluate the last expression and explain what the result would be and why.
-
- let a = 10;
- let b = 'dog';
- let c = false;
-
- // evaluate this
- (a + c) + b;
-
-The final result would be '10dog' because you can't add a number to a boolean so just the number is added  turning the problem into '10 + dog'
-
-## Describe a real world example of when a conditional statement should be used in a JavaScript program.
-let fuel = low
-
-if {
-    fuel is low
-    then
-    go to a gas station
-}
-
-## Give an example of when a Loop is useful in JavaScript.
-
-When you have code you want to repeat like:
-
-let answers = ['rpg', 'fps', 'horror', 'simulation'];
-let attempts = 6;
-let correct = false;
-
-while (attempts > 0 && !correct) {
-    let guess = prompt(
-        'What type of game genre do I like the most? (' + attempts + ' attempts left)'
-    ).toLowerCase();
-
-    if (answers.includes(guess)) {
-        alert('Correct!');
-        correct = true;
-    } else {
-        attempts--;
-        alert('Wrong!');
-    }
-}
+```js
+const people = [
+  ['pete', 32, 'librarian', null],
+  ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'],
+  ['bill', null, 'artist', null]
+];
