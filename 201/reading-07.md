@@ -1,5 +1,7 @@
 # Reading 07
 
+This topic matters because it reinforces what we learned in this class, constuctors are an important tool in any web devs toolkit and essential part in JS knowledge.
+
 ## Domain ModelingLinks to an external site.
 
 1. Explain why we need domain modeling.
@@ -28,10 +30,11 @@ This also confuses screen readers.
 
 1. What is a constructor and what are some advantages to using it?
 
-    A constructor is a special function used to create objects with the same structure. instead of writing the same object repeatedly, we use constructors
+    A constructor is a special function used to create objects with the same structure. instead of writing the same object repeatedly, we use constructors.
 
-2. How does the term this differ when used in an object literal versus when used in a constructor?
+2. How does the term 'this' differ when used in an object literal versus when used in a constructor?
 
+    In an **object literal**, `this` refers to the object the method is called on, while in a **constructor**, `this` refers to the new instance being created by the `new` keyword.
 
 
 ## Object Prototypes Using A ConstructorLinks to an external site.
@@ -41,12 +44,3 @@ This also confuses screen readers.
     The object you are creating with inherit from the constructor.
 
 ### NOTE: This is a very common front end developer interview question
-
-
-## End of Class Review
-
-1. What is a Constructor function?
-
-2. How does the term `this` differ when reference an object literal versus a Constructor function?
-
-3. What are some HTML elements that make up an HTML table?
