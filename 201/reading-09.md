@@ -5,11 +5,11 @@
 
 1. Why are forms so important in web development?
 
-
+Forms are how users create accounts, log in, search, submit data, configure settings and/or make purchases.
 
 2. When designing a form, what are some key things to keep in mind when it comes to user experience?
 
-
+The bigger the form the worse you're UX will be, it's important to reduce user effort. labeling and adding instructions are also important.
 
 3. List 5 form elements and explain their importance.
 
