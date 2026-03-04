@@ -1,7 +1,4 @@
-### [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms){:target="_blank"}
-
-[Your first Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form){:target="_blank"}.
-[How To Structure A Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form){:target="_blank"}.
+# HTML Forms
 
 1. Why are forms so important in web development?
 
@@ -23,9 +20,7 @@ The bigger the form the worse you're UX will be, it's important to reduce user e
 
 <button> triggers form actions such as submission, enabling the form to function.
 
-### [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript){:target="_blank"}
-
-[Introduction To Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events){:target="_blank"}.
+## Learn JS
 
 1. How would you describe events to a non-technical friend?
 
