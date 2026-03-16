@@ -36,7 +36,7 @@
 
 4. Name a few advantages to using absolute positioning on an element.
 
-    Absolute positioning offers more features like pop-up information boxes, control menus and rollover panels
+    Absolute positioning offers more features like pop-up information boxes, control menus and rollover panels.
 
 5. What is a key difference between fixed positioning and absolute positioning?
 
@@ -52,4 +52,4 @@
 2. What is the difference between a parameter and an argument?
 
     A parameter is what you use when creating a function, specifically inside the `()`.
-    An argument is what you place inside the `()` when invoking the function
+    An argument is what you place inside the `()` when invoking the function.
