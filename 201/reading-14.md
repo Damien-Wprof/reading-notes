@@ -19,7 +19,7 @@
 
 2. How does a CSS animation differ from a CSS transition?
 
-
+    Transistions need a change state to activate first animations can run automatically and are defined with keyframes.
 
 [8 simple CSS3 transitions that will wow your users](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users){:target="_blank"}
 
@@ -30,3 +30,4 @@
 
 2. How this topic fit in with your long-term goals?
 
+    Adding animations and/or transistions to my project would be cool.
