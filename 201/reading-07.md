@@ -1,6 +1,6 @@
 # Reading 07
 
-This topic matters because it reinforces what we learned in this class, constuctors are an important tool in any web devs toolkit and essential part in JS knowledge.
+    This topic matters because it reinforces what we learned in this class, constuctors are an important tool in any web devs toolkit and essential part in JS knowledge.
 
 ## Domain ModelingLinks to an external site.
 
@@ -13,8 +13,8 @@ This topic matters because it reinforces what we learned in this class, constuct
 
 1. Why should tables not be used for page layouts?
 
-Tables should be used for data and not layout because they hurt accessibility, readability and maintenance, it also mixes structure with presentation.
-This also confuses screen readers.
+    Tables should be used for data and not layout because they hurt accessibility, readability and maintenance, it also mixes structure with presentation.
+    This also confuses screen readers.
 
 
 2. List and describe 3 different semantic HTML elements used in an HTML <table>.

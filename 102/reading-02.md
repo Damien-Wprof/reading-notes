@@ -1,11 +1,14 @@
-# What are four important features to look for in a text editor?
+# The Coder's Computer
+
+
+1. What are four important features to look for in a text editor?
 
     1. Syntax highlighting
     2. Search and replace
     3. Extensions or plugin support
     4. Good file handling and performance
 
-## What do the following commands do?
+2. What do the following commands do?
 
     1. "pwd"  print working directory
     2. ls = list
@@ -13,7 +16,7 @@
     4. mkdir = make directory
     5. touch = make/update file
 
-### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
     1. cd projects = change directory into a file named "projects"
     2. mkdir new-project = makes a new directory called "new -project"
