@@ -1,4 +1,6 @@
-# Learn HTML
+# Readings: HTML Links, JS Functions, and Intro to CSS Layout
+
+## Learn HTML
 
 1. To create a basic link, we wrap text or other content inside what element?
 
@@ -42,7 +44,7 @@
 
     Absolute positioning places an element relative to it's nearest positioned ancestor, fixed positioning places an element relative to the viewport.
 
-### Learn JS
+## Learn JS
 
 1. Describe the difference between a function declaration and a function invocation.
 

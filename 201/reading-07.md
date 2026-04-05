@@ -7,6 +7,7 @@
 1. Explain why we need domain modeling.
 
     We use domain modeling to understand the problem before we write our code, to help us understand what the problem is comprised of and what data those properties need.
+    
     Domain modeling reduces bugs, rewrites and confusion because you design it before you write it.
 
 ## HTML Table BasicsLinks to an external site.
@@ -17,13 +18,13 @@
     This also confuses screen readers.
 
 
-2. List and describe 3 different semantic HTML elements used in an HTML <table>.
+2. List and describe 3 different semantic HTML elements used in an HTML `<table>`.
 
-    <thead>
+    `<thead>`
         The head of the table.
-    <tbody>
+    `<tbody>`
         The body of the table.
-    <tfoot>
+    `<tfoot>`
         Footer of the table.
 
 ## Introducing ConstructorsLinks to an external site.

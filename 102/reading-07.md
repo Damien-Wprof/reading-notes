@@ -8,8 +8,7 @@
 
     Functions are reusable chunks of code made for specific tasks. 
 
-    functions are executed when called/invoked.
-    
+    Functions are executed when called/invoked.
     Functions are fundamental in all programming languages
 
 3. What does it mean to invoke - or call - a function?

@@ -6,8 +6,10 @@
 2. What are the three ways to insert CSS into your project?
     Inline CSS, internal CSS and external CSS.
 
-3. Write an example of a CSS rule that would give all <p> elements red text.
+3. Write an example of a CSS rule that would give all `<p>` elements red text.
 
+    ```css
     p {
     color: red;
     }
+    ```

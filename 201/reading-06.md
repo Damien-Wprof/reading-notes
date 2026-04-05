@@ -18,6 +18,7 @@ You must use bracket notation when
 
 5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 
+  ```js
   const dog = {
     name: 'Spot',
     age: 2,
@@ -26,8 +27,9 @@ You must use bracket notation when
       console.log(`${this.name} is ${this.age*7} in human years`);
     }
   }
+  ```
 
-  Using 'this' allows the code to be flexible and reusable.
+  Using `this` allows the code to be flexible and reusable.
 
 ## Introduction To The DOM
 
